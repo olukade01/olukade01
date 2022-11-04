@@ -7,6 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olukade01" alt="olukade01" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/olukadem" target="blank"><img src="https://img.shields.io/twitter/follow/olukadem?logo=twitter&style=for-the-badge" alt="olukadem" /></a> </p>
+<p align="left">Checkout my <a href="https://muzzammil.vercel.app/" target="blank">Portfolio</a> </p>
 
 - 🔭 I’m currently working on **an E-Commerce website**
 
@@ -33,6 +34,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olukade01&show_icons=true&locale=en&layout=compact" alt="olukade01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olukade01&show_icons=true&locale=en" alt="olukade01" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=&" alt="olukade01" /></p>
 
